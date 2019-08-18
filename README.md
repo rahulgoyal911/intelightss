@@ -1,1 +1,3 @@
 # unite
+Hello Everyone,
+It is basically a system of fully actuated smart traffic lights.For example there would be a timer running for say 30 seconds but there are only 2 vehicles standing which ultimately leads to fuel wastage and harmful gasses emission The system now regulates the traffic according to the traffic density meaning if there are less vehicles a lesser amount for green signal is being shown and if there are more vehicles more amount  of green signal will be shown.We have developed this system using Python,Machine Learning,Artificial Intelligence and it is a completely autonomous system.
