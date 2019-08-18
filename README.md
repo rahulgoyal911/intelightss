@@ -26,4 +26,4 @@ http://intelights.herokuapp.com/
 https://github.com/rahulgoyal911/unite/edit/master/README.md
 
 #Android app screenshot
-![Android](screenshot.jpg)
+![Android](screenshot.png)
