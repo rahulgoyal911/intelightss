@@ -1,5 +1,5 @@
 # Team Details
-Name: Dexters Lab
+Team Name: Dexter's Lab
 Members:
 1.Rahul Goyal
 2.Karamdeep singh Bami
