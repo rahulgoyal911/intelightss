@@ -12,6 +12,10 @@ Intelights proposes a 360degree solution to curb the rising problem of traffic c
 
 Intelights also monitors the traffic and divides it into sub categories providing a dataset with a very high resolution and accuracy.Using the same, it can monitor the intersection wise issues and will help us provide a safer city.
 
+
+# Research paper linking the wastage of fuel
+https://www.academia.edu/2527399/ESTIMATION_OF_FUEL_LOSS_DURING_IDLING_OF_VEHICLES_AT_SIGNALISED_INTERSECTIONS_IN_DELHI
+
 # Web Dashboard prototype
 http://intelights.herokuapp.com/
 
