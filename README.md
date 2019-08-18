@@ -23,7 +23,7 @@ http://intelights.herokuapp.com/
 
 
 # Android app source code
-https://github.com/rahulgoyal911/unite/edit/master/README.md
+https://github.com/rahulgoyal911/unite/tree/master/android%20app
 
 # Web Portal Screenshot
 ![Android](portal.png)
