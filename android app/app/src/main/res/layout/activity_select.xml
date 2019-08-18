@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Select">
+
+    <Button
+        android:id="@+id/view_traffic"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:onClick="btnClick"
+        android:text="VIEW TRAFFIC"
+        app:layout_constraintBottom_toTopOf="@+id/send_sos"
+        app:layout_constraintEnd_toEndOf="@+id/send_sos"
+        app:layout_constraintStart_toStartOf="@+id/send_sos"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <Button
+        android:id="@+id/send_sos"
+        android:layout_width="229dp"
+        android:layout_height="wrap_content"
+        android:onClick="btnClick"
+        android:text="SEND SoS"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view_traffic" />
+</androidx.constraintlayout.ConstraintLayout>
