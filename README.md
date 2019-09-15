@@ -13,10 +13,10 @@ InteLights proposes a 360° solution to curb the rising problem of traffic conge
 # PPT
 
 
-# Research paper linking the wastage of fuel
+# Research paper - Wastage of Fuel
 https://www.academia.edu/2527399/ESTIMATION_OF_FUEL_LOSS_DURING_IDLING_OF_VEHICLES_AT_SIGNALISED_INTERSECTIONS_IN_DELHI
 
-# Web Dashboard prototype
+# Web Dashboard Prototype
 http://intelights.herokuapp.com/
 
 # Android app source code
