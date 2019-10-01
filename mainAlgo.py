@@ -36,9 +36,9 @@ car_count_1 = 0
 car_count_2 = 0
 car_count_3 = 0
 car_count_4 = 0
-red1=2
-yel1=3
-gre1=4
+red4=2
+yel4=3
+gre4=4
 
 red2=17
 yel2=27
